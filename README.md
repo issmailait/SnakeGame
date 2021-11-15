@@ -1,6 +1,6 @@
 # SnakeGame
-This is a snake game i built using Python and the windows-curses Module 
-i used Curses to creat a window object inside the terminal provided by Windows, GNU/Linux an other OS
+This is a snake game i built using Python and the windows-curses Module. 
+I used Curses to creat a window object inside the terminal provided by Windows, GNU/Linux an other OS
 
 # still need to add some features to the game :
     - score system 
